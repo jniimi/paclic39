@@ -1,11 +1,14 @@
 # Reference Points in LLM Sentiment Analysis: The Role of Structured Context
 
+[![DOI](https://img.shields.io/badge/DOI-10.48550%2FarXiv.2508.11454-b31b1b)](https://doi.org/10.48550/arXiv.2508.11454)
 [![PACLIC 39](https://img.shields.io/badge/PACLIC-39-blue)](https://paclic39.github.io/)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 This repository accompanies the paper presented at **PACLIC 39 (The 39th Pacific Asia Conference on Language, Information and Computation)**.
 
 ## 📄 Paper Information
+
+[Paper](https://doi.org/10.48550/arXiv.2508.11454)
 
 **Title:** Reference Points in LLM Sentiment Analysis: The Role of Structured Context
 
@@ -50,18 +53,6 @@ This study addresses four key research questions:
 - **Structured Prompting:** Demonstrates that JSON-formatted prompts enable smaller models (3B parameters) to achieve competitive performance
 - **Practical Deployment:** Shows feasibility for resource-constrained edge devices without fine-tuning
 - **Reference Point Analysis:** Confirms that performance gains stem from contextual reasoning, not label proxying
-
----
-
-## 📁 Repository Structure
-
-This repository provides supplementary information for the paper. **Note:** Source code is not publicly available in this repository.
-
-```
-paclic39/
-├── README.md                 # This file
-└── PACLIC39-cameraready.pdf # Paper (if available)
-```
 
 ---
 
@@ -154,6 +145,9 @@ We are grateful to the anonymous reviewers for their insightful comments.
 
 If you use this work in your research, please cite:
 
+J. Niimi (2025) Reference Points in LLM Sentiment Analysis: The Role of Structured Context,
+*Proceedings of The 39th Pacific Asia Conference on Language, Information and Computation (PACLIC 39)*.
+
 ```bibtex
 @inproceedings{niimi2025reference,
   title={Reference Points in LLM Sentiment Analysis: The Role of Structured Context},
@@ -162,12 +156,6 @@ If you use this work in your research, please cite:
   year={2025},
   organization={PACLIC}
 }
-```
-
-**Plain text citation:**
-```
-J. Niimi (2025) "Reference Points in LLM Sentiment Analysis: The Role of Structured Context",
-Proceedings of The 39th Pacific Asia Conference on Language, Information and Computation (PACLIC 39).
 ```
 
 ---
