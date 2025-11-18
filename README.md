@@ -188,6 +188,3 @@ Under the following terms:
 - [Yelp Open Dataset](https://www.yelp.com/dataset)
 - [Llama-3.2-3B-Instruct Model Card](https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct)
 
----
-
-**Note:** This repository is intended for academic and research purposes. Source code is not publicly available. For specific implementation details, please refer to the paper or contact the author.
