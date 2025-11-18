@@ -1,14 +1,14 @@
 # Reference Points in LLM Sentiment Analysis: The Role of Structured Context
 
 [![DOI](https://img.shields.io/badge/DOI-10.48550%2FarXiv.2508.11454-b31b1b)](https://doi.org/10.48550/arXiv.2508.11454)
-[![PACLIC 39](https://img.shields.io/badge/PACLIC-39-blue)](https://paclic39.github.io/)
+[![PACLIC 39](https://img.shields.io/badge/PACLIC-39-blue)](https://vlsp.org.vn/paclic2025/)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-This repository accompanies the paper presented at **PACLIC 39 (The 39th Pacific Asia Conference on Language, Information and Computation)**.
+This repository accompanies the paper presented at [**PACLIC 39 (The 39th Pacific Asia Conference on Language, Information and Computation)**](https://vlsp.org.vn/paclic2025/).
 
 ## 📄 Paper Information
 
-[Paper](https://doi.org/10.48550/arXiv.2508.11454)
+Paper URL: [https://doi.org/10.48550/arXiv.2508.11454](https://doi.org/10.48550/arXiv.2508.11454)
 
 **Title:** Reference Points in LLM Sentiment Analysis: The Role of Structured Context
 
@@ -17,8 +17,6 @@ Faculty of Business Management, Meijo University
 RIKEN AIP
 
 **Published in:** Proceedings of The 39th Pacific Asia Conference on Language, Information and Computation (PACLIC 39), 2025
-
-**Contact:** jniimi@meijo-u.ac.jp
 
 ---
 
@@ -186,9 +184,9 @@ Under the following terms:
 
 ## 🔗 Related Resources
 
-- [PACLIC 39 Conference Website](https://paclic39.github.io/)
+- [PACLIC 39](https://vlsp.org.vn/paclic2025/)
 - [Yelp Open Dataset](https://www.yelp.com/dataset)
-- [Llama 3.2 Model Card](https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct)
+- [Llama-3.2-3B-Instruct Model Card](https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct)
 
 ---
 
