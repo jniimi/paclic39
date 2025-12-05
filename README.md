@@ -18,20 +18,6 @@ RIKEN AIP
 
 **Published in:** Proceedings of The 39th Pacific Asia Conference on Language, Information and Computation (PACLIC 39), 2025
 
----
-
-## 🎨 Conference Poster
-
-<p align="center">
-  <a href="./Niimi2025_poster.png">
-    <img src="./Niimi2025_poster.png" alt="PACLIC 39 Poster" width="800">
-  </a>
-</p>
-
-*Click on the poster to view full size*
-
----
-
 ## 📋 Abstract
 
 Large language models (LLMs) are now widely used across many fields, including marketing research. While most NLP studies classify sentiment from review text alone, marketing theories such as prospect theory and expectation-disconfirmation theory point out that customer evaluations are shaped not only by the actual experience but also by additional reference points.
@@ -43,6 +29,19 @@ This study investigates how the content and format of supplementary information 
 - Macro-F1 rises by 1.6% and 4% for Restaurant and Nightlife categories
 - RMSE falls by 16% and 9.1% respectively
 - Performance gains stem from genuine contextual reasoning rather than label proxying
+
+
+---
+
+## 🎨 Conference Poster
+
+<p align="center">
+  <a href="./Niimi2025_poster.png">
+    <img src="./Niimi2025_poster.png" alt="PACLIC 39 Poster" width="800">
+  </a>
+</p>
+
+*Click on the poster to view full size*
 
 ---
 
