@@ -8,7 +8,7 @@ This repository accompanies the paper presented at [**PACLIC 39 (The 39th Pacifi
 
 ## 📄 Paper Information
 
-Paper URL: [https://doi.org/10.48550/arXiv.2508.11454](https://doi.org/10.48550/arXiv.2508.11454)
+📑 **[View Full Paper (PDF)](./Niimi2025_paper.pdf)** | 🎨 **[View Poster (PNG)](./Niimi2025_poster.png)** | 🔗 **[DOI](https://doi.org/10.48550/arXiv.2508.11454)**
 
 **Title:** Reference Points in LLM Sentiment Analysis: The Role of Structured Context
 
@@ -17,6 +17,18 @@ Faculty of Business Management, Meijo University
 RIKEN AIP
 
 **Published in:** Proceedings of The 39th Pacific Asia Conference on Language, Information and Computation (PACLIC 39), 2025
+
+---
+
+## 🎨 Conference Poster
+
+<p align="center">
+  <a href="./Niimi2025_poster.png">
+    <img src="./Niimi2025_poster.png" alt="PACLIC 39 Poster" width="800">
+  </a>
+</p>
+
+*Click on the poster to view full size*
 
 ---
 
